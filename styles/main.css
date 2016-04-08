@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    border-bottom: 5%
+}
+
+header{
+    text-align: center
+}
+
+.logoCabecera{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%;
+   height: auto
+}
+
+section{
+    background-color: blue;
+    text-align: center;
+    color: white
+}
+
+
+footer{
+    text-align: center
+}
