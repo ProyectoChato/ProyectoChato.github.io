@@ -1,10 +1,10 @@
 body{
-    margin: 0;
-    border-bottom: 5%
+    text-align: center;
+    font-size: 1.5em
 }
 
 header{
-    text-align: center
+    z-index: 1000
 }
 
 .logoCabecera{
@@ -15,13 +15,57 @@ header{
    height: auto
 }
 
-section{
-    background-color: blue;
-    text-align: center;
-    color: white
-}
-
-
-footer{
+.barraNavegacion{
     text-align: center
 }
+
+.barraNavegacion span{
+    padding: 2%
+}
+
+section.queEsChato{
+    background-color: lightcoral
+    
+}
+
+section.agradecimiento{
+    background-color: lightgreen
+}
+
+div.todosLosMiembros{
+    margin: 5%
+}
+
+div.miembro{
+    height: 200px;
+    padding: 1%
+}
+
+div.miembrosDerecha{
+    width: 50%;
+    float: right
+}
+
+div.miembrosIzquierda{
+    width: 50%;
+    float: left
+}
+
+div.divFotoMiembro{
+    float: left;
+    width: 20%
+}
+
+div.infoMiembro{
+    text-align: left;
+    height: 200px;
+    float: right;
+    width: 75%
+}
+
+a.volverArriba{
+   padding-top: 5%;
+    padding-top: 5%
+}
+
+
