@@ -1,10 +1,8 @@
-body{
+body, html{
+    width: 100%;
+    height: auto;
     text-align: center;
-    font-size: 1.5em
-}
-
-header{
-    z-index: 1000
+    font-size: 1.5em;
 }
 
 .logoCabecera{
@@ -12,7 +10,7 @@ header{
    margin-left: auto;
    margin-right: auto;
    width: 20%;
-   height: auto
+   height: auto;
 }
 
 .barraNavegacion{
@@ -22,49 +20,11 @@ header{
 .barraNavegacion span{
     padding: 2%
 }
-/*
-section.queEsChato{
-        
+
+section{
+  wi
 }
 
-section.agradecimiento{
-    
+footer{
+  display: inline-block;
 }
-*/
-div.todosLosMiembros{
-    margin: 5%
-}
-
-div.miembro{
-    height: 200px;
-    padding: 1%
-}
-
-div.miembrosDerecha{
-    width: 50%;
-    float: right
-}
-
-div.miembrosIzquierda{
-    width: 50%;
-    float: left
-}
-
-div.divFotoMiembro{
-    float: left;
-    width: 20%
-}
-
-div.infoMiembro{
-    text-align: center;
-    height: 200px;
-    float: right;
-    width: 75%
-}
-
-a.volverArriba{
-   padding-top: 5%;
-    padding-top: 5%
-}
-
-
