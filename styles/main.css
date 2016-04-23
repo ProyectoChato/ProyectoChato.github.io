@@ -33,15 +33,11 @@ section.quienSomos{
   width: 100%;
 }
 
-section.agradecimiento{
-  height: 100%;
-  width: 100%;
+div.miembro{
+  display: inline-block;
 }
 
-section.queEsChato{
-  height: 100%;
-  width: 100%;
-}
+
 
 footer{
   display: inline-block;
