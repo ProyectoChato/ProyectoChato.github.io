@@ -2,7 +2,6 @@ body, html{
     width: 100%;
     height: auto;
     text-align: center;
-    font-size: 1.5em;
 }
 
 .logoCabecera{
@@ -13,6 +12,14 @@ body, html{
    height: auto;
 }
 
+.tituloPaguina{
+  font-size: 4em;
+}
+
+.urlGitHub{
+  font-size: 1em;
+}
+
 .barraNavegacion{
     text-align: center
 }
@@ -21,8 +28,19 @@ body, html{
     padding: 2%
 }
 
-section{
-  wi
+section.quienSomos{
+  height: auto;
+  width: 100%;
+}
+
+section.agradecimiento{
+  height: 100%;
+  width: 100%;
+}
+
+section.queEsChato{
+  height: 100%;
+  width: 100%;
 }
 
 footer{
