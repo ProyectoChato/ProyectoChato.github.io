@@ -4,6 +4,10 @@ body, html{
     text-align: center;
 }
 
+header{
+  background-image: url(images\equipoChato.jpg);
+}
+
 .logoCabecera{
    display: block;
    margin-left: auto;
@@ -36,8 +40,6 @@ section.quienSomos{
 div.miembro{
   display: inline-block;
 }
-
-
 
 footer{
   display: inline-block;
