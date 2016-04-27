@@ -2,10 +2,7 @@ body, html{
     width: 100%;
     height: auto;
     text-align: center;
-}
-
-header{
-  background-image: url(images/equipoChato.jpg);
+    font-size: 1.25em;
 }
 
 .logoCabecera{
@@ -37,7 +34,15 @@ div.miembro{
   margin-left: 2%;
   margin-right: 2%;
   display: inline-block;
-  font-size: 1.5em;
+}
+
+div.queHemosUsado{
+  display: inline-block;
+}
+
+img.logoDescripcion{
+  width:75px;
+  height: auto;
 }
 
 footer{
