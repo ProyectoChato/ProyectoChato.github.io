@@ -2,9 +2,11 @@ body, html{
     width: 100%;
     height: auto;
     text-align: center;
-    font-size: 1.25em;
 }
 
+a{
+font-size: 1.25em; 
+}
 .logoCabecera{
    display: block;
    margin-left: auto;
@@ -35,10 +37,6 @@ div.miembro{
   margin-right: 2%;
   display: inline-block;
   font-size: 1.5em;
-}
-
-div.queHemosUsado{
-  display: inline-block;
 }
 
 img.logoDescripcion{
